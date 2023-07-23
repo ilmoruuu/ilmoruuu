@@ -1,17 +1,17 @@
-<h2 align="left">Oi! Bem vindo ao meu perfil! Me chamo Murilo, mas pode me chamar de Ilmoru!</h2>
+<h2 align="left">Oi! Bem vindo ao meu perfil! Me chamo Murilo, mas pode me chamar de Ilmoru! ✨</h2>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmoruuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilmoruuu&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://profile-counter.glitch.me/ilmoruuu/count.svg?"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img align="right" height="150" src="https://imgflip.com/gif/7ti5vn"  />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ilmoruuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=false&custom_title=Estatísticas de Ilmoruuu" height="150" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilmoruuu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -24,15 +24,17 @@
 ###
 
 <div align="left">
-  <a href="https://www.instagram.com/ilmoruuu/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
 </div>
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ilmoruuu/ilmoruuu/output/snake.svg" alt="Snake animation" />
+<div align="left">
+  <a href="https://www.instagram.com/ilmoruuu/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
 
 ###
