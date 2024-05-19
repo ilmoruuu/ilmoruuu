@@ -48,16 +48,16 @@
 
 <br clear="both">
 
-<h4 align="left">Conheça-me por aqui:</h4>
+<h2 align="left">Conheça-me por aqui:</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.youtube.com/channel/UCGjdBUkF-1DsxswgPtsE0PA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="youtube logo"  />
   </a>
   <a href="https://www.linkedin.com/in/muriloglucena/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="50" alt="linkedin logo"  />
   </a>
 </div>
 
