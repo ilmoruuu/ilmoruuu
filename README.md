@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h1 align="left">𝗛𝗲𝗹𝗹𝗼 𝘄𝗼𝗿𝗹𝗱! 𝗕𝗲𝗺 𝘃𝗶𝗻𝗱𝗼(𝗮) 𝗮𝗼 𝗺𝗲𝘂 𝗽𝗲𝗿𝗳𝗶𝗹! :D</h1>
+<h2 align="left">Olá mundo! Bem vindo(a) ao meu perfil! :D</h2>
 
 ###
 
@@ -11,49 +9,55 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilmoruuu&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=pt-br&hide_border=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ilmoruuu&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ilmoruuu&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=pt-br&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<h2 align="left">𝗟𝗶𝗻𝗴𝘂𝗮𝗴𝗲𝗻𝘀 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:</h2>
+<h2 align="left">Linguagens utilizadas:</h2>
 
 ###
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-</div>
-
-###
-
-<h2 align="left">𝗜𝗗𝗘'𝗦 𝘂𝘁𝗶𝗹𝗶𝘇𝗮𝗱𝗮𝘀:</h2>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/pycharm/000000" height="40" alt="pycharm logo"  />
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="50" alt="haskell logo"  />
 </div>
-
-###
-
-<h2 align="left">𝗠𝗲 𝗰𝗼𝗻𝗵𝗲𝗰𝗮 𝗺𝗮𝗶𝘀 𝗽𝗼𝗿 𝗮𝗾𝘂𝗶:</h2>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.instagram.com/ilmoruuu/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+<h2 align="left">IDE's utilizadas:</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="50" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="50" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="50" alt="vscode logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<h4 align="left">Conheça-me por aqui:</h4>
+
+###
+
+<div align="left">
+  <a href="https://www.youtube.com/channel/UCGjdBUkF-1DsxswgPtsE0PA" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/muriloglucena/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
 
