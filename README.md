@@ -2,23 +2,23 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h4 align="center">About me</h4>
 
 ###
 
 <br clear="both">
 
-<h6 align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 4th semester (4/8). I am also working as a teaching assistant for the "Software Processes" course at UPE.</h6>
+<p align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 4th semester (4/8). I am also working as a teaching assistant for the "Software Processes" course at UPE.</p>
 
 ###
 
-<h2 align="left">My experiences</h2>
+<h4 align="center">My experiences</h4>
 
 ###
 
 <br clear="both">
 
-<h6 align="left">I have knowledge in Java, Python, and Haskell programming languages. I have extensive experience in abstract system diagramming using UML based on Requirements Engineering concepts. Additionally, I work with tools like Postgres, Docker, Postman, and Figma.</h6>
+<p align="left">I have knowledge in Java, Python, and Haskell programming languages. I have extensive experience in abstract system diagramming using UML based on Requirements Engineering concepts. Additionally, I work with tools like Postgres, Docker, Postman, and Figma.</p>
 
 ###
 
@@ -29,11 +29,11 @@
 
 ###
 
-<h2 align="left">Technologies I have experience with</h2>
+<h4 align="center">Technologies I have experience with</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -45,7 +45,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
@@ -61,11 +61,11 @@
 
 ###
 
-<h2 align="left">Meet me here!</h2>
+<h4 align="center">Meet me here!</h4>
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/muriloglucena/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
