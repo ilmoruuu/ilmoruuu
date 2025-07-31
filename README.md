@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 5th semester (5/8). I am also working as a teaching assistant for the "Software Processes" course at UPE.</p>
+<p align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 6th semester (6/8).<br> <br>I have worked as a teaching monitor for the Software Processes course> at UPE, and I am currently a classroom assistant professor in the areas of Computer Science and Programming at Informativa Cursos Profissionalizantes.</p>
 
 ###
 
@@ -40,7 +40,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="40" alt="haskell logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
 </div>
 
 ###
@@ -57,6 +57,10 @@
   <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
 </div>
 
 ###
