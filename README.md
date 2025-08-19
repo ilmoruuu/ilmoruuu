@@ -8,7 +8,7 @@
 
 <br clear="both">
 
-<p align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 6th semester (6/8).<br> <br>I have worked as a teaching monitor for the Software Processes course> at UPE, and I am currently a classroom assistant professor in the areas of Computer Science and Programming at Informativa Cursos Profissionalizantes.</p>
+<p align="left">Hello! My name is Murilo Lucena, and I am an undergraduate student in the Software Engineering program at the University of Pernambuco (UPE) - Garanhuns Campus. I am currently in my 6th semester (6/8).<br> <br>I have worked as a teaching monitor for the Software Processes course at UPE, and I am currently a classroom assistant professor in the areas of Computer Science and Programming at Informativa Cursos Profissionalizantes.</p>
 
 ###
 
