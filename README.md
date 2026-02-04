@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">• Linguagens: Java, Python, JavaScript, TypeScript e Dart 🧩💻<br>• Frameworks: React, Next.js, Spring Boot e Flutter ⚛️🚀<br>• Modelagem de sistemas utilizando UML 🗂️📊<br>• Conhecimentos em Engenharia de Requisitos 📋🛠️<br>• Uso de PostgreSQL, Docker, Postman e Figma 🐘🐳📮🎨</p>
+<p align="left">• Linguagens: Java, Python, Dart, JavaScript e TypeScript 🧠💡<br>• Frameworks: React, Next.js, Spring e Flutter ⚙️📱<br>• Ferramentas de desenvolvimento: IntelliJ IDEA e Android Studio 🛠️📲<br>• Infraestrutura e APIs: Docker, PostgreSQL e Postman ☁️🗄️🔗<br>• Organização e design: Trello e Figma 📌🎨</p>
 
 ###
 
