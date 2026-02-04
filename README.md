@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">Olá! Meu nome é Murilo Lucena e sou graduando em Engenharia de Software pela Universidade de Pernambuco (UPE) — Campus Garanhuns. Atualmente, estou cursando o 7º semestre da graduação (7/8).<br><br>Atuei como monitor das disciplinas de Processos de Software e Teoria da Computação na UPE. Também trabalhei como Professor Auxiliar de Programação na Informativa Cursos Profissionalizantes. Atualmente, sou Desenvolvedor Front-end no projeto PerifaClima, uma iniciativa realizada em parceria entre o Governo do Estado de Pernambuco e a Universidade de Pernambuco (UPE).</p>
+<p align="left">• Oi! Meu nome é Murilo!<br>• Graduando em Engenharia de Software pela UPE – Campus Garanhuns (7/8) 🎓📚<br>• Monitor das disciplinas de Processos de Software e Teoria da Computação 👨‍🏫📐<br>• Professor Auxiliar de Programação na Informativa Cursos Profissionalizantes 👨‍💻🧑‍🏫<br>• Desenvolvedor Front-end no projeto PerifaClima 🌐🎨</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">Possuo experiência com as linguagens de programação Java, Python, JavaScript, TypeScript e Dart, tendo atuado com os frameworks React, Next.js, Spring Boot e Flutter no desenvolvimento de aplicações web e mobile. Além disso, tenho vivência em modelagem de sistemas utilizando UML, com base em conceitos de Engenharia de Requisitos, e experiência no uso de tecnologias e ferramentas como PostgreSQL, Docker, Postman e Figma.</p>
+<p align="left">• Linguagens: Java, Python, JavaScript, TypeScript e Dart 🧩💻<br>• Frameworks: React, Next.js, Spring Boot e Flutter ⚛️🚀<br>• Modelagem de sistemas utilizando UML 🗂️📊<br>• Conhecimentos em Engenharia de Requisitos 📋🛠️<br>• Uso de PostgreSQL, Docker, Postman e Figma 🐘🐳📮🎨</p>
 
 ###
 
