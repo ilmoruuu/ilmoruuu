@@ -14,7 +14,7 @@
 
 <br clear="both">
 
-<p align="left">• Oi! Meu nome é Murilo!<br>• Graduando em Engenharia de Software pela UPE – Campus Garanhuns (7/8) 🎓📚<br>• Monitor das disciplinas de Processos de Software e Teoria da Computação 👨‍🏫📐<br>• Professor Auxiliar de Programação na Informativa Cursos Profissionalizantes 👨‍💻🧑‍🏫<br>• Desenvolvedor Front-end no projeto PerifaClima 🌐🎨</p>
+<p align="left">• Oi! Meu nome é Murilo!<br>• Graduando em Engenharia de Software pela UPE – Campus Garanhuns (7/8) 🎓📚<br>• Monitor das disciplinas de Processos de Software e Teoria da Computação 👨‍🏫📐<br>• Professor Auxiliar de Programação na Informativa Cursos Profissionalizantes 👨‍💻🧑‍🏫<br>• Desenvolvedor Front-end no projeto PerifaClima (Governo de Pernambuco & UPE) 🌐🎨</p>
 
 ###
 
@@ -24,7 +24,7 @@
 
 <br clear="both">
 
-<p align="left">• Linguagens: Java, Python, Dart, JavaScript e TypeScript 🧠💡<br>• Frameworks: React, Next.js, Spring e Flutter ⚙️📱<br>• Ferramentas de desenvolvimento: IntelliJ IDEA e Android Studio 🛠️📲<br>• Infraestrutura e APIs: Docker, PostgreSQL e Postman ☁️🗄️🔗<br>• Organização e design: Trello e Figma 📌🎨</p>
+<p align="left">• Linguagens: Java, Python, Dart, JavaScript e TypeScript 🧠💡<br>• Frameworks: React, Next.js, Spring e Flutter ⚙️📱<br>• Ferramentas de desenvolvimento: IntelliJ IDEA, Visual Studio Code e  Android Studio 🛠️📲<br>• Infraestrutura e APIs: Docker, PostgreSQL e Postman ☁️🗄️🔗<br>• Organização e design: Trello e Figma 📌🎨</p>
 
 ###
 
@@ -47,27 +47,43 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" alt="figma logo"  />
+  <img src="https://cdn.simpleicons.org/nextdotjs/000000" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+  <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/flutter/02569B" height="40" alt="flutter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/androidstudio/3DDC84" height="40" alt="androidstudio logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/intellijidea/000000" height="40" alt="intellijidea logo"  />
+  <img src="https://cdn.simpleicons.org/postgresql/4169E1" height="40" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="40" alt="postman logo"  />
+</div>
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
 ###
